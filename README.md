@@ -1,2 +1,2 @@
 # 2D-My-House
-Create  my house with js. 
+Creating  my house with js. 
